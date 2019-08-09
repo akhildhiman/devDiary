@@ -8,7 +8,7 @@ You might've come across <b>double and triple equality</b> operators in JavaScri
 
 These operators lie in the category of <b>comparison operators</b> and are used for testing equality of operands, resulting in either true or false value.
 
-<br><br>
+<br>
 
 <b>Triple Equals (===)</b>
 
@@ -30,7 +30,7 @@ The above condition results in false because 23 is of <b>number</b> data type wh
 
 This is self-explanatory. Both are numbers, and both have the same value, so there's no reason they can't be equal.
 
-<br><br>
+<br>
 
 <b>Double Equals (==)</b>
 
