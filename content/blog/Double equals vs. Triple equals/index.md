@@ -28,6 +28,7 @@ The above condition results in false because 23 is of <b>number</b> data type wh
 
 This is self-explanatory. Both are numbers, and both have the same value, so there's no reason they can't be equal.
 
+<br><br>
 
 <b>Double Equals (==)</b>
 
