@@ -8,6 +8,8 @@ You might've come across <b>double and triple equality</b> operators in JavaScri
 
 These operators lie in the category of <b>comparison operators</b> and are used for testing equality of operands, resulting in either true or false value.
 
+<br><br>
+
 <b>Triple Equals (===)</b>
 
 When using triple equals in JavaScript, one important thing to keep in mind is that it doesn't do type coercion. Umm, what? Well, it just doesn't change the type of one operand to match the type of the other operand. Let's see this with an example.
