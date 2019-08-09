@@ -18,7 +18,7 @@ When using triple equals in JavaScript, one important thing to keep in mind is t
 ```
 <br>
 
-The above condition results in false because 23 is of number data type while "23" is a string. So, they can't be equal. It's important to note that what we're checking here is something called, a strict equality.
+The above condition results in false because 23 is of <b>number</b> data type while "23" is a <b>string</b>. So, they can't be equal. It's important to note that what we're checking here is something called, a strict equality.
 
 ```
 23 === 23 // True
@@ -34,6 +34,8 @@ This is self-explanatory. Both are numbers, and both have the same value, so the
 This comparison operator checks for equality while performing type coercion.
 
 <i>According to stack overflow, " <b>Type coercion means that when the operands of an operator are different types, one of them will be converted to an "equivalent" value of the other operand's type"</b>.</i>
+
+<br>
 
 Let's look at this simple example:
 
