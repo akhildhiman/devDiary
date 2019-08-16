@@ -4,13 +4,15 @@ tags: ["javascript"]
 published: true
 date: '2019-08-10'
 ---
+![JS Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK9UTas_jNfrVLzDyWYtgJuetp8nqYmKe_hXzEhcZj_Ao8NJHP)
+
 You might've come across <b>double and triple equality</b> operators in JavaScript, plus things like type conversion or type coercion. All of it might seem confusing at first, though a better understanding will help you look things in a more vivid manner.
 
 These operators lie in the category of <b>comparison operators</b> and are used for testing equality of operands, resulting in either true or false value.
 
 <br>
 
-<b>Triple Equals (===)</b>
+### **Triple Equals (===)**
 
 When using triple equals in JavaScript, one important thing to keep in mind is that it doesn't do type coercion. Umm, what? Well, it just doesn't change the type of one operand to match the type of the other operand. Let's see this with an example.
 
@@ -32,7 +34,7 @@ This is self-explanatory. Both are numbers, and both have the same value, so the
 
 <br>
 
-<b>Double Equals (==)</b>
+### **Double Equals (===)**
 
 This comparison operator checks for equality while performing type coercion.
 
@@ -62,7 +64,7 @@ Some other examples to look at:
 ```
 <br>
 
-<b>Summary</b>
+### Summary**
 
 === simply returns true if the operands are strictly equal (no type coercion).
 

@@ -5,10 +5,11 @@ published: true
 date: '2019-08-06'
 ---
 
+![JS Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK9UTas_jNfrVLzDyWYtgJuetp8nqYmKe_hXzEhcZj_Ao8NJHP)
 
 We all know that arrays are technically objects when it comes to JavaScript, and, like an object, an array too has methods in its protoype (_proto_ to be precise). <b>ForEach, Map, Filter and Reduce</b> are one of the most useful methods out there, making our code a lot clearer and easier to write.
 
-<b>Array.prototype.forEach()</b>
+### **Array.prototype.forEach()**
 
 Let’s take an example to understand forEach() better.
 
@@ -51,7 +52,7 @@ The same array, forEach() was called upon i.e., [1, 2, 5, 6, 7].
 
 <br>
 
-<b>Array.prototype.map()</b>
+### **Array.prototype.map()**
 
 If you need a new array having <b>same size</b> as that of the original array, <b>map()</b> would be your best choice.
 
@@ -71,7 +72,7 @@ Here, coming to our previously used analogy, <b>map()</b> is sending a stream of
 So, map() returns a new array of the same size. Cool!
 
 
-<b>Array.prototype.filter()</b>
+### **Array.prototype.filter()**
 
 Imagine, if you wanted to select some fruits (say apples) from a huge basket of fruits mixed up together, what would you do ? Pick up a smaller new basket, grab the apples and put them inside it. That’s how we filter items, right ?
 
@@ -91,7 +92,7 @@ Here, as you would’ve comprehended, filter() is filtering out even items from 
 So, our filter() methods operates on an array and returns a new array of same size or less.
 
 
-<b>Array.prototype.reduce()</b>
+### **Array.prototype.reduce()**
 
 Now, here comes the “seems to be tricky ” kind of an array method, but I would rather call it an useful and most powerful among all the methods discussed here. You’ll find out why :)
 
