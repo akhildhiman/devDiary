@@ -5,7 +5,7 @@ published: true
 date: '2019-08-06'
 ---
 
-![JS Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK9UTas_jNfrVLzDyWYtgJuetp8nqYmKe_hXzEhcZj_Ao8NJHP)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK9UTas_jNfrVLzDyWYtgJuetp8nqYmKe_hXzEhcZj_Ao8NJHP)
 
 We all know that arrays are technically objects when it comes to JavaScript, and, like an object, an array too has methods in its protoype (_proto_ to be precise). <b>ForEach, Map, Filter and Reduce</b> are one of the most useful methods out there, making our code a lot clearer and easier to write.
 

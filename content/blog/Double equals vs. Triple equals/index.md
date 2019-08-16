@@ -4,7 +4,7 @@ tags: ["javascript"]
 published: true
 date: '2019-08-10'
 ---
-![JS Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK9UTas_jNfrVLzDyWYtgJuetp8nqYmKe_hXzEhcZj_Ao8NJHP)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK9UTas_jNfrVLzDyWYtgJuetp8nqYmKe_hXzEhcZj_Ao8NJHP)
 
 You might've come across <b>double and triple equality</b> operators in JavaScript, plus things like type conversion or type coercion. All of it might seem confusing at first, though a better understanding will help you look things in a more vivid manner.
 
