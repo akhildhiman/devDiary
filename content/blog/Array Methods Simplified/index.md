@@ -12,7 +12,7 @@ We all know that arrays are technically objects when it comes to JavaScript, and
 
 Let’s take an example to understand forEach() better.
 
-```
+```javascript
 var array = [1, 2, 5, 6, 7];
 
 array.forEach(function cb(currentValue, index, array) {
@@ -55,7 +55,7 @@ The same array, forEach() was called upon i.e., [1, 2, 5, 6, 7].
 
 If you need a new array having <b>same size</b> as that of the original array, <b>map()</b> would be your best choice.
 
-```
+```javascript
 var array = [1, 2, 5, 6, 7];
 
 array.map(function cb(currentValue, index, array) {
@@ -75,7 +75,7 @@ So, map() returns a new array of the same size. Cool!
 
 Imagine, if you wanted to select some fruits (say apples) from a huge basket of fruits mixed up together, what would you do ? Pick up a smaller new basket, grab the apples and put them inside it. That’s how we filter items, right ?
 
-```
+```javascript
 var array = [1, 2, 5, 6, 7];
 
 array.filter(function cb(currentValue, index, array) {
@@ -120,7 +120,7 @@ currentValue = first value in the array
 
 Consider this example:
 
-```
+```javascript
 var array = [1, 2, 5, 6, 7];
 
 array.reduce(function cb(accumulator, currentValue, index, array) {
