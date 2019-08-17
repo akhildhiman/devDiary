@@ -149,6 +149,12 @@ Headings work the same way as we use tags like heading tags in HTML. But here, y
 ## Heading 2
 ### Heading 3
 
+<br><br>
+
+
+---
+
+*Thanks for reading. And yes, this blog post has been written in Markdown, as well.*
 
 
 
