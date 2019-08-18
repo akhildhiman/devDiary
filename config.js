@@ -11,9 +11,7 @@ module.exports = {
     contacts: {
       linkedin: "#",
       github: "https://github.com/akhildhiman",
-      stackoverflow:
-        "#",
-      freecodecamp: "#",
+      stackoverflow: "https://stackoverflow.com/users/11873593/metalheaddev",
       twitter: "https://twitter.com/_himalayan_",
     },
   },
