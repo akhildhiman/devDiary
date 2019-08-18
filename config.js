@@ -12,6 +12,7 @@ module.exports = {
       linkedin: "https://www.linkedin.com/in/akhil-dhiman-609632169/",
       github: "https://github.com/akhildhiman",
       stackoverflow: "https://stackoverflow.com/users/11873593/metalheaddev",
+      freecodecamp: "#",
       twitter: "https://twitter.com/_himalayan_",
     },
   },
