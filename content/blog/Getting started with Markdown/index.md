@@ -176,8 +176,3 @@ Headings work the same way as we use tags like heading tags in HTML. But here, y
 
 
 
-
-
-
-
-
