@@ -115,7 +115,7 @@ Well, all variable declarations are hoisted in JavaScript whether it's var, let 
 **var gets initialized with a value of undefined while let and const are not initialized.**
 
 
-<br><br><br>
+<br><br><br><br>
 
 _Thank you for reading this article._
 
