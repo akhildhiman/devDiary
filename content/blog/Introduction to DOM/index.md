@@ -54,8 +54,6 @@ document.getElementById("idName");
 
 You could read more about methods [here](https://www.w3schools.com/jsref/met_document_queryselectorall.asp).
 
-
-
 ![](https://miro.medium.com/max/1209/1*oDUYVdlsESoGTE3pd1L3_w.png)
 
 What we see here is a normal looking HTML structure having head, body etc. If we try and see it in terms of the DOM tree, what would we say ?
