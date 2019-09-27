@@ -33,7 +33,7 @@ This is one of the best features in React. At this time, just remember that comp
 # Virtual DOM
 You might know about DOM, right ? Well, the virtual DOM is quite similar to the actual DOM. You might recall in JS, whenever anything changed, the DOM would update the nodes in the DOM tree, and subsequently our page would change.
 
-The virtual DOM remains in-sync with the actual DOM. What React does it that whenver we update (change the state) our application, it compares the previous state to the updated state (using the diff algorithm), in turn creates an updated Virtual DOM, and finally apply the changes to the actual DOM. Well, the question is, "Why can't React update the actual DOM directly ?" If we change the state every now and then, we would have to re-render our elements every time, and that makes for a really expensive task. Virtual DOM **only** updates the latest changes that have been made, and thus makes it more efficient.
+The virtual DOM remains in-sync with the actual DOM. What React does is that whenever we update (change the state) our application, it compares the previous state to the updated state (using the diff algorithm), in turn creates an updated Virtual DOM, and finally apply the changes to the actual DOM. Well, the question is, "Why can't React update the actual DOM directly ?" If we change the state every now and then, we would have to re-render our elements every time, and that makes for a really expensive task. Virtual DOM **only** updates the latest changes that have been made, and thus makes it more efficient.
 
 You could read more about this in the [official docs](https://reactjs.org/docs/reconciliation.html).
 
