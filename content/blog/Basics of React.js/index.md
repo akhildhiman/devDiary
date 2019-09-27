@@ -7,7 +7,7 @@ date: '2019-09-27'
 
 ![](https://reactjs.org/logo-og.png)
 
-In this article, we'll discuss about some of the basic topics in React:
+In this article, we'll discuss some of the basic topics in React:
 * #### Virtual DOM
 * #### JSX
 * #### Components
