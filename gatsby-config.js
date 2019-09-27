@@ -7,7 +7,7 @@ module.exports = {
     url: siteConfig.url,
     title: siteConfig.title,
     tagline: siteConfig.tagline,
-    description: `A blog template for web developers that's ready to go out of the box. Feel free to modify it to your liking.`,
+    description: `Hola, Everyone! I'm Akhil, I write mostly about JavaScript and other related stuff. Currently in the process of becoming a Full- Stack Web Developer, I'm also an old school gamer, sports enthusiast, and a really really bad Ukulele player. My primary purpose of writing here is to explain complex technical stuff in the simplest possible way.`,
     author: siteConfig.author.name,
     contacts: {
       linkedin: siteConfig.author.contacts.linkedin,
@@ -71,7 +71,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/profile.jpg`, // This path is relative to the root of the site.
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
