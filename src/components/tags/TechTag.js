@@ -19,7 +19,6 @@ const TechTag = (props) => {
                     <div className="d-inline" style={{ fontSize: size, color: color }}>{icon}</div>
                 </button>
             </Link>
-
         </div>
 
     )

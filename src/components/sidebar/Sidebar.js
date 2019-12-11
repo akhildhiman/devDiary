@@ -52,7 +52,7 @@ const Sidebar = () => {
                 <>
                     <div className="sidebar-main border-right">
                         <Bio author={data.site.siteMetadata.author} tagline={data.site.siteMetadata.tagline} />
-                        <SocialLinks contacts={data.site.siteMetadata.contacts} />
+                        {/* <SocialLinks contacts={data.site.siteMetadata.contacts} /> */}
                         <div className="page-links">
                             <Link to="/"><span className="text-dark d-block py-1">Blog Home</span></Link>
                             <Link to="/about"><span className="text-dark d-block py-1">About</span></Link>
