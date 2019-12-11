@@ -2,7 +2,7 @@
 title: "State Management with Redux"
 tags: ["react"]
 published: true
-date: "2019-11-04"
+date: "2019-12-11"
 ---
 
 ![](https://i.pinimg.com/originals/71/f0/a4/71f0a4c41735f951f9823725ee42cf8a.png)
