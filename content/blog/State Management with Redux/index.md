@@ -104,7 +104,7 @@ Interestingly, an action object can be dispatched from anywhere in our applicati
 
 # React-Redux
 
-It is the official React binding for our Redux. Using React-Redux provides our React Components access to the Redux store and thus allows them to dispatch actions to the store to update data. Let's look at some important aspects of React-Redux.
+It is the official React binding for Redux. React-Redux provides our React Components access to the Redux store and thus allows them to dispatch actions to the store to update data. Let's look at some important aspects of React-Redux.
 <br><br><br>
 
 ## connect
