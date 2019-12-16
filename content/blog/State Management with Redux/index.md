@@ -266,7 +266,7 @@ So, generally, action creators are functions that return a plain JavaScript obje
 
 To summarize, when the button is being clicked, we call listUser action creator, which is basically a thunk, returns a function, fetches the info, dispatches an action, action goes to the userReducer, userReducer returns the new state, store gets updated, the ListUser Component receives the updated state via props. Thus, when we call **this.props.user**, we're able to get the username. Phew, that's the whole redux flow, as simple as that!!
 
-Here's the [codesandbox](https://codesandbox.io/s/damp-fog-tt4up), if you wanna try it out.
+Here's the [codesandbox](https://codesandbox.io/s/nervous-architecture-pqycx), if you wanna try it out.
 
 <br><br>
 
