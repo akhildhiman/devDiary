@@ -7,7 +7,7 @@ module.exports = {
     url: siteConfig.url,
     title: siteConfig.title,
     tagline: siteConfig.tagline,
-    description: `Hola, Everyone! I'm Akhil, I write mostly about JavaScript and other related stuff. Currently in the process of becoming a Full- Stack Web Developer, I'm also an old school gamer, sports enthusiast, and a really really bad Ukulele player. My primary purpose of writing here is to explain complex technical stuff in the simplest possible way.`,
+    description: `Hola, Everyone! I'm Akhil, I write mostly about JavaScript, React.js and other related stuff. Currently in the process of becoming a Full- Stack Web Developer, I'm also an old school gamer, sports enthusiast, and a really really bad Ukulele player. My primary purpose of writing here is to explain complex technical stuff in the simplest possible way.`,
     author: siteConfig.author.name,
     contacts: {
       linkedin: siteConfig.author.contacts.linkedin,

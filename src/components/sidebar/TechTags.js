@@ -38,7 +38,6 @@ const TechTags = (props) => {
         return techTags
     }
 
-
     return (
         <>
             <h4>Tech Topics</h4>
