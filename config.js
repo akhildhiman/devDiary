@@ -2,18 +2,18 @@
 
 module.exports = {
   url: "https://developer-diary.netlify.com",
-  title: "Developer Diary",
-  tagline: "Aspiring Web Developer, awkward at times.",
+  title: "",
+  tagline: "",
   copyright: "© 2019 willjw3, All rights reserved",
   author: {
-    name: "Akhil Dhiman",
-    bio: "Self-taught web developer and whisky aficionado",
+    name: "",
+    bio: "",
     contacts: {
-      linkedin: "https://www.linkedin.com/in/akhil-dhiman-609632169/",
-      github: "https://github.com/akhildhiman",
-      stackoverflow: "https://stackoverflow.com/users/11873593/metalheaddev",
+      linkedin: "",
+      github: "",
+      stackoverflow: "",
       freecodecamp: "#",
-      twitter: "https://twitter.com/_himalayan_",
+      twitter: "",
     },
   },
   labels: [
